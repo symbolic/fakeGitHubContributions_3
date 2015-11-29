@@ -5,7 +5,7 @@ import random
 import os
  
 if __name__ == '__main__': 
-	timeSpaces = 5
+	timeSpaces = 2
 	
 	while True:
 		fp = open('random.txt', 'w')
